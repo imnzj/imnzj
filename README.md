@@ -2,7 +2,7 @@
 - 👀 I’m interested Programing
 - 🌱 I’m currently learning python and Matlab
 - 💞️ I’m looking to collaborate on python & Matlab.
-- 📫 How to reach me 
+- 📫 How to reach me @nomanzahoor1413@gmail.com 
 
 <!---
 imnzj/imnzj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
